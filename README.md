@@ -29,3 +29,8 @@ Right now, all .c files need to be in the root folder.
 ## TODO
 
 Add flash task to upload binary using avrdude
+
+## License
+
+Usual MIT, see LICENSE file.
+

@@ -18,6 +18,12 @@ and look what's in `build` folder!
 
 I'm building for `attiny85` device. If you use different one, simply change the `mcu` value at the top of the Rakefile.
 
+### Other tasks
+
+* `rake clean` removes all intermediate products and leaves .hex file in `build` folder.
+
+* `rake clobber` removes all generated files.
+
 ## Example
 
 Example, dead-simple project is located in `example` folder.
